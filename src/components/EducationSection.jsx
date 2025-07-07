@@ -4,21 +4,21 @@ const studies = [
   {
     title: 'Secundario Técnico en Informática',
     institution: 'ORT Argentina',
-    period: '2020 - Actualidad',
+    period: '2021 - 2025 (Actualidad)',
     desc: 'Especialidad en informática. Desarrollo de proyectos, innovación y tecnología.',
     featured: true
   },
   {
     title: 'Curso de Líderes',
     institution: 'Bethilel',
-    period: '2022',
+    period: '2023 - 2025',
     desc: 'Formación en liderazgo y trabajo en equipo.',
     featured: false
   },
   {
     title: 'Curso de UX/UI',
     institution: 'Coderhouse',
-    period: '2023',
+    period: '2025',
     desc: 'Diseño de experiencia de usuario, prototipado y herramientas modernas.',
     featured: false
   }

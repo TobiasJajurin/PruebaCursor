@@ -2,16 +2,16 @@ import React from 'react';
 
 const recommendations = [
   {
-    text: 'Ezequiel fue muy didáctico y transmitió los contenidos de la cursada de una manera que se me hizo muy fácil de entender. Siempre estuvo a disposición para despejar dudas y fue realmente de ayuda en la resolución de los distintos ejercicios.'
+    text: '“Tobias es un estudiante con una marcada creatividad y una enorme capacidad para comunicar sus ideas. A lo largo del año, se destacó no solo por la calidad de sus trabajos, sino también por su entusiasmo, participación activa y compromiso con cada actividad.”'
   },
   {
-    text: 'Su dedicación, compromiso, adaptabilidad e ingenio han colaborado en lograr que los proyectos planteados por todo el equipo se logren y generen un alto impacto en estudiantes y docentes.'
+    text: '“Desde el inicio de la cursada, Tobias mostró una actitud ejemplar: siempre predispuesto a aprender, colaborar y asumir nuevos desafíos. Su habilidad para el diseño y su facilidad para expresarse oralmente marcaron la diferencia en cada proyecto grupal e individual.”'
   },
   {
-    text: 'Desde muy joven ha demostrado ser un profesional sumamente responsable, destacado por su compromiso, calidad humana, capacidad de escucha, trabajo en equipo, movilizador de ideas y proyectos, y una gran humildad para seguir superandose. Cada vez que recibió mas tareas, responsabilidades y compromisos, logró cumplir cada uno de los objetivos.'
+    text: '“Tobias combina creatividad, responsabilidad y visión estratégica. Tiene la capacidad de transformar ideas en propuestas concretas con impacto real. Su enfoque orientado al detalle y su compromiso constante hacen que trabajar con él sea siempre una experiencia enriquecedora.”'
   },
   {
-    text: 'Sin duda alguna uno de los mejores profesores de programación que he tenido no solo por su conocimiento en el área, sino también por su gran capacidad para transmitir dichos conocimientos, logrando que cada clase sea indispensable y entretenida. Es una persona dedicada que siempre nos ha sabido guiar en nuestro proceso de aprendizaje, generando confianza y empatía con todos.'
+    text: '“Con un fuerte perfil creativo y una excelente oratoria, Tobias es capaz de liderar proyectos desde la idea inicial hasta su ejecución. Posee una gran sensibilidad estética, entiende cómo comunicar, y busca siempre superarse. Es un perfil con gran proyección.”'
   }
 ];
 

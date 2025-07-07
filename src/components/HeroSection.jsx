@@ -1,11 +1,11 @@
 import React from 'react';
+import ForoImg from '../assets/ForoImg.png';
 
 const HeroSection = () => (
   <section className="hero-section" id="hero">
     <div className="hero-grid">
       <div className="hero-illustration">
-        {/* Foto tipo LinkedIn, el usuario puede reemplazarla luego */}
-        <img src="https://randomuser.me/api/portraits/men/32.jpg" alt="Foto de Tobias Jajurin" className="hero-photo" />
+        <img src={ForoImg} alt="Foro" className="hero-photo" />
       </div>
       <div className="hero-content">
         <span className="hero-greeting">HOLA!</span>

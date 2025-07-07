@@ -912,13 +912,15 @@ section {
 }
 
 .hero-photo {
-  width: 220px;
-  height: 220px;
-  object-fit: cover;
-  border-radius: 50%;
-  border: 5px solid var(--color-primary);
-  box-shadow: 0 4px 24px 0 rgba(0,97,224,0.10);
-  background: #f4f6fa;
+  width: 350px;
+  max-width: 100%;
+  height: auto;
+  object-fit: contain;
+  border-radius: 0;
+  border: none;
+  box-shadow: none;
+  background: transparent;
+  display: block;
 }
 
 .navbar {
